@@ -10,7 +10,7 @@ import Data.List
 import Data.Version
 import System.Console.GetOpt
 
-import PackageInfo_hsbirthdays
+import Paths_hsbirthdays
 
 progname :: String
 progname = "hsbirthdays"
