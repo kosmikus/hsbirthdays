@@ -8,6 +8,7 @@ maintainer: hsbirthdays@andres-loeh.de
 build-type: Simple
 extra-doc-files: CHANGELOG.md
 data-files: hsbirthdays.example
+tested-with: GHC==9.10.1, GHC==9.8.4, GHC==9.6.6, GHC==9.2.8
 
 executable hsbirthdays
   ghc-options: -Wall
