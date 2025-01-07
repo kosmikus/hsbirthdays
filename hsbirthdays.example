@@ -1,0 +1,13 @@
+# This is an example birthdays file.
+# Lines starting with a # (in the first column) are comments.
+
+# Blank lines are ignored.
+# All other lines should contain a date followed by a description.
+# The date can be given in the form "dd.mm.yyyy" or "dd.mm".
+
+23.03.2005 hsbirthdays-1.0
+31.12.     New Year's Eve
+07.01.2025 hsbirthdays-1.1
+
+# If the year is available, the default output will print the
+# age of the person/event.
